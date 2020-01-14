@@ -1,0 +1,2 @@
+# npmpkgtest
+for testing npm
